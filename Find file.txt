@@ -1,0 +1,4 @@
+This is a fairly basic algorithm which uses depth first search in finding files inside of directories.
+What this means is if you have a file with a toward "z" lexographical name, it will take a while to find
+it even if it's in the same directory.
+I wish to improve this sometime whenever. Afterall, python isn't the best when it comes down to performing fast.
