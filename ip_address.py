@@ -2,9 +2,9 @@ import re, os, platform
 from json import load
 from urllib.request import urlopen
 
-	"""
+"""
 WINDOWS ONLY
-	"""
+"""
 
 class Get_ip():
 	
